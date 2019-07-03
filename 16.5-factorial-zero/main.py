@@ -1,0 +1,1 @@
+# Write an algorithm which computers the number if trailing zeros in n factorial.
